@@ -3,4 +3,7 @@
 Conteúdo desse repositório:
 
 - `PPR-03.pdf`: slides sobre diagramas ER
-- `exercício1.md`: exercício diagramas ER
+
+Exercícios:
+
+- Diagrama ER: https://classroom.github.com/a/-70yiBPF
